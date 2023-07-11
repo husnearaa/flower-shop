@@ -44,12 +44,12 @@ margin-top: 20px;
 
 .btn{
 border-radius: 8px;
+border: none;
 border-color: #E55473;
 background: #E55473;
 padding: 15px 30px;
 margin: 25px 0px 0px 120px;
 color: #FFF;
-font-family: Lato;
 font-size: 20px;
 font-weight: 700;
 
@@ -69,7 +69,7 @@ font-weight: 700;
     justify-content: center;
     gap: 25px;
     height: 80vh;
-    margin-bottom: 90px;
+    margin-bottom: 70px;
 }
 
 .flowers-title{
@@ -122,12 +122,12 @@ margin-top: 10px;
 
 /* blog styles */
 
-.blog-container{
+/* .blog-container{
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-}
+} */
 
 
 
@@ -141,8 +141,8 @@ height: 265px;
 width: 83%;
 margin: auto;
 border-radius: 10px;
-margin-bottom: 140px;
-margin-top: 20px;
+margin-bottom: 80px;
+margin-top: 80px;
 }
 
 .deal-container{
@@ -168,7 +168,7 @@ margin-top: 20px;
     color: #E55473;
 }
 
-.deal-dis{
+.deal-des{
     color: rgba(39, 39, 39, 0.60);
     font-size: 17px;
     font-weight: 400;
@@ -192,39 +192,34 @@ margin-top: 20px;
     margin: auto;
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 25px;
-    padding-top: 30px;
-    padding-bottom: 60px;
-    margin-bottom: 100px;
-    
-
+    padding-top: 40px;
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+   
+ 
 }
 
 .insta-title{
     margin-top: 80px;
 }
 
-.flowers-des{
-    margin-bottom: 40px;
+
+.insta-description{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+   
 }
 .insta-container{
     margin-bottom: 1px 60px 100px 60px;
 }
-.f-img{ 
-    height: 300px;
-    width: 250px;
-    padding: 1px;
-   
-}
-.png-img{
-    background-color: lightgray 50%;
 
-
-
-
-
-   
-}  
+ 
 /* coupon styles */
 .last-container{
     background-image: url("../Flower\ Asset/Rectangle\ 9.png");
@@ -234,8 +229,8 @@ margin-top: 20px;
     width: 80%;
     height: 330px;
     margin: auto;
-    margin-bottom: 80px;
-    margin-top: 120px;
+    margin-bottom: 100px;
+    margin-top: 80px;
 }
 
 
