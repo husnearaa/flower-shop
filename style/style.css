@@ -185,5 +185,113 @@ margin-top: 20px;
     font-weight: 690;
     margin-top: 20px;
 }
+ 
+.insta-image{
+   
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    margin-bottom: 100px;
+    
 
+}
+
+.insta-title{
+    margin-top: 80px;
+}
+
+.flowers-des{
+    margin-bottom: 40px;
+}
+.insta-container{
+    margin-bottom: 1px 60px 100px 60px;
+}
+.f-img{ 
+    height: 300px;
+    width: 250px;
+    padding: 1px;
+   
+}
+.png-img{
+    background-color: lightgray 50%;
+
+
+
+
+
+   
+}  
+/* coupon styles */
+.last-container{
+    background-image: url("../Flower\ Asset/Rectangle\ 9.png");
+    border-radius: 1px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 80%;
+    height: 330px;
+    margin: auto;
+    margin-bottom: 80px;
+    margin-top: 120px;
+}
+
+
+.coupon-deal{
+text-align: center;
+   padding: 22px;
+   margin-top: 30px;
+}
+
+.coupon-title {
+    margin-top: 60px;
+}
+
+.coupon-field{
+    margin-top: 25px;
+    border-radius: 5px;
+    background: white;
+    border: 2px solid white;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 300px;
+}
+
+.coupon-btn{
+    border-radius: 6px;
+    background: #E55473;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    font-size: 12px;
+    font-weight: 690;
+    margin-top: 20px;
+}
+
+/* footer style */
+
+.footer-container{
+    background: #111010;
+    height: 350px;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+ 
+}
+
+ .footer-title{
+    color: white;
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+.footer-description{
+color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+}
 
